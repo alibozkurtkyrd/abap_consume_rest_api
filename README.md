@@ -1,6 +1,6 @@
 # abap_consume_rest_api
 
-consume the rest api by using sap abap programming language
+I wrote the code for consuming the rest api by using SAP ABAP programming language
 
 
 For video demonstration [click]()
