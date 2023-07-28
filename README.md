@@ -2,5 +2,6 @@
 
 I wrote the code for consuming the rest api by using SAP ABAP programming language
 
+Deserialized object was put into internal table and then showed into hierarchical ALV.
 
 For video demonstration [click]()
